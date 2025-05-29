@@ -1,9 +1,12 @@
-## Brill Nash Piner (Full Stack Software Engineer)
-Experienced Software Engineer with a strong background in building high quality applications,
-improving code quality, and speeding up project delivery. Node.js/Java/Scala Developer with Agile,
-full-stack development experience to guarantee successful execution of front and back end projects.
-Commended for decreasing development resources and improving web capabilities through strong
-teamwork and problem-solving abilities.
+# 🚀 About Me
+
+👋 Hello! I'm Brill Nash Piner, a **Full Stack Software Engineer** with a passion for crafting high-quality applications that drive performance and productivity. I specialize in both frontend and backend development, with deep experience in **Node.js**, **Java**, and **Scala**.
+
+- 💼 Skilled in delivering clean, scalable code while enhancing team workflows and reducing development overhead.
+- 🔧 Strong advocate of Agile methodologies and collaborative development to ensure timely and effective project delivery.
+- 🌐 From refactoring legacy systems to designing intuitive UIs with modern frameworks like **Nuxt**, **Vue**, and **React**, I bring both structure and creativity to every solution.
+- ⚡ Fun fact: I'm equally passionate about logic-driven problem solving and high-energy sports competitions—both keep my reflexes sharp!
+
 
 ##
 ![](https://komarev.com/ghpvc/?username=BrillNash)
@@ -27,6 +30,7 @@ teamwork and problem-solving abilities.
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![Nuxt.js](https://img.shields.io/badge/nuxt-%2300DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
