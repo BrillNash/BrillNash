@@ -7,6 +7,9 @@
 - 🌐 From refactoring legacy systems to designing intuitive UIs with modern frameworks like **Nuxt**, **Vue**, and **React**, I bring both structure and creativity to every solution.
 - ⚡ Fun fact: I'm equally passionate about logic-driven problem solving and high-energy sports competitions—both keep my reflexes sharp!
 
+##
+![](https://komarev.com/ghpvc/?username=BrillNash)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmeNash) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nashthoughts23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brill-nash-piner-a91947235)
 
